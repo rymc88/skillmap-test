@@ -10,13 +10,13 @@ type: tutorial
 description: This is the first tutorial in the skillmap.
 next: tutorial-2
 
-url: https://github.com/rymc88/Skillmap-Test/tutorial-1
+url: https://github.com/rymc88/skillmap-test/tutorial-1
 
 ### tutorial-2
 name: Tutorial 2
 type: tutorial
 description: This is the second tutorial in the skillmap
 
-url: https://github.com/rymc88/Skillmap-Test/tutorial-2
+url: https://github.com/rymc88/skillmap-test/tutorial-2
 
 
