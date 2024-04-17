@@ -8,7 +8,10 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "tutorial-1.md",
+        "tutorial-2.md",
+        "skillmap-test.md"
     ],
     "testFiles": [
         "test.ts"
